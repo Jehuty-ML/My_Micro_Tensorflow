@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d49d9cc-314d-42a6-94ae-f7d1604810a6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YQev4oMuCJm0sV6033PRA7jnLx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.chinese_emotion_analyse">
+    <configuration name="AI19_中文情感分析" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="20191117_AI19-中文情感" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI19_中文情感分析.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chinese_emotion_analyse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="20191117_AI19-中文情感" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chinese_emotion_analyse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chinese_emotion_analyse" />
+        <item itemvalue="Python.AI19_中文情感分析" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d49d9cc-314d-42a6-94ae-f7d1604810a6" name="Default Changelist" comment="" />
+      <created>1582879472768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582879472768</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="682" y="133" key="#chinese_emotion_analyse" timestamp="1582880071753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="133" key="#chinese_emotion_analyse/0.0.1920.1040@0.0.1920.1040" timestamp="1582880071753" />
+    <state x="649" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582879620062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582879620062" />
+    <state x="742" y="277" key="FileChooserDialogImpl" timestamp="1585749111778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585749111778" />
+    <state width="1900" height="281" key="GridCell.Tab.0.bottom" timestamp="1585752573776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585752573776" />
+    <state width="1900" height="281" key="GridCell.Tab.0.center" timestamp="1585752573776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585752573776" />
+    <state width="1900" height="281" key="GridCell.Tab.0.left" timestamp="1585752573775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585752573775" />
+    <state width="1900" height="281" key="GridCell.Tab.0.right" timestamp="1585752573776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585752573776" />
+    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1583247292706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583247292706" />
+  </component>
+</project>
